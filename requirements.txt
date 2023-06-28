@@ -1,0 +1,24 @@
+# Librerías de pruebas
+pytest
+pytest-cov
+behave
+
+# Cliente HTTP
+requests
+
+# Selenium para pruebas de UI
+selenium
+
+# Manejo de datos
+pandas
+
+# Generación de reportes
+python-docx
+openpyxl
+
+# Logging
+loguru
+
+# Parser de YAML para leer archivos de configuración
+PyYAML
+
